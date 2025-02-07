@@ -1,6 +1,6 @@
 # Micro-Services
 
-Tech used: Java, SpringBoot, PostgreSQL, Hibername, Eureka, Feign, Spring Web, Lombok some more library..
+Tech used: Java, SpringBoot, PostgreSQL, Hibername, Eureka, Feign, Spring Web, Lombok and some more library..
 
 We have Quiz monolithic application which can create quiz from question service. 
 So later we converted it into microservices, which has basically three part.
